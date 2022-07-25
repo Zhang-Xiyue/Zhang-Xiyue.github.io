@@ -3,7 +3,6 @@ permalink: /pubs/
 title: "Publications"
 ---
 
-## Publications
 
 ### 2022
 
