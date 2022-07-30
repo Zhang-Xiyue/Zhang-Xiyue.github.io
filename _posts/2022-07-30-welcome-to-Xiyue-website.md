@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Xiyue's Website!"
+title: "Welcome to Xiyue's website!"
 date: 2022-07-30T10:35-10:45
 categories:
   - blog
