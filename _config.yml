@@ -73,7 +73,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Zhang-Xiyue"
     - label: "Orcid"
-      icon: "fab fa-orcid"
+      icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-1649-7165"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
