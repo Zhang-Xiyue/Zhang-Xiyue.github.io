@@ -24,14 +24,7 @@ Visiting experience
   * Singapore University of Technology and Design
   * Supervisor: Professor Jun Sun
   
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+
 
 Publications
 ======
