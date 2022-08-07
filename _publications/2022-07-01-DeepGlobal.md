@@ -11,5 +11,3 @@ citation: 'Weidi Sun, Yuteng Lu, Xiyue Zhang, Meng Sun. &quot;DeepGlobal: A Fram
 This paper proposes a network architecture enabling global verification in a feasible way. The proposed verification approach can find all adversarial dangerous regions (ADRs).
 
 [Download paper here](https://doi.org/10.1016/j.sysarc.2022.102582)
-
-Recommended citation: Weidi Sun, Yuteng Lu, Xiyue Zhang, Meng Sun. "DeepGlobal: A Framework for Global Robustness Verification of Feedforward Neural Networks." <i>Journal of Systems Architecture</i>.  vol. 128, 2022.
