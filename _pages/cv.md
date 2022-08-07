@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information and Computing Science, Peking University, 2017
+* Ph.D in Applied Mathematics, Peking University, 2022 (Advisor: Professor Meng Sun)
 
-Work experience
+Visiting experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb. 2019 - Mar. 2020: Research Assistant
+  * Nanyang Technological University
+  * Supervisor: Professor Yang Liu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug. 2017: Research Assistant
+  * Singapore University of Technology and Design
+  * Supervisor: Professor Jun Sun
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -54,6 +51,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Committee Member
+  * Program Committee of MLiSE 2021 (co-located with ECML PKDD 2021)
+* External Reviewer (Journal)
+  * JCST, SCP, JSS, FCS, IEEE Transactions on Reliability
+* External Reviewer (Conference)
+  * CAV, TACAS, ICFEM, TASE, COORDINATION, FORMATS, SEKE, FACS, LSFA
