@@ -32,23 +32,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service
 ======
-* Committee Member
+* PC Member
   * Program Committee of MLiSE 2021 (co-located with ECML PKDD 2021)
-* External Reviewer (Journal)
-  * JCST, SCP, JSS, FCS, IEEE Transactions on Reliability
-* External Reviewer (Conference)
-  * CAV, TACAS, ICFEM, TASE, COORDINATION, FORMATS, SEKE, FACS, LSFA
+* Reviewer/sub-reviewer (Journal)
+  * TOSEM, JCST, SCP, JSS, FCS, IEEE Transactions on Reliability
+* Reviewer/sub-reviewer (Conference)
+  * CAV, ASE, NeurIPS, CCS, TACAS, ICFEM, TASE, ASIACCS, ICECCS, COORDINATION, FORMATS, SEKE, FACS, LSFA
