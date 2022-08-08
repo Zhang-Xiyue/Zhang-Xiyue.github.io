@@ -10,4 +10,4 @@ citation: 'Weidi Sun, Yuteng Lu, Xiyue Zhang, Meng Sun. &quot;DeepGlobal: A Fram
 ---
 
 
-[Download paper here](https://doi.org/10.1016/j.sysarc.2022.102582)
+

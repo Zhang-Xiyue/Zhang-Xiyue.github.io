@@ -10,4 +10,4 @@ citation: 'Xiaokun Luan, Xiyue Zhang, Meng Sun. &quot;Using LSTM to Predict Tact
 ---
 
 
-[Download paper here](https://ksiresearch.org/seke/seke21paper/paper047.pdf)
+
