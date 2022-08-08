@@ -2,7 +2,7 @@
 title: "DeepGlobal: A Framework for Global Robustness Verification of Feedforward Neural Networks"
 collection: publications
 permalink: /publication/2022-07-01-DeepGlobal
-excerpt: 'This paper proposes a network architecture enabling global verification in a feasible way. The proposed verification approach can find all adversarial dangerous regions (ADRs).'
+excerpt: 
 date: 2022-07-01
 venue: 'Journal of Systems Architecture'
 paperurl: 'https://doi.org/10.1016/j.sysarc.2022.102582'
