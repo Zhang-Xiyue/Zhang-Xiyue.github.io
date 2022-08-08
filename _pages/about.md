@@ -15,4 +15,4 @@ My current research mainly focuses on trustworthy deep learning, formal modeling
 
 News
 ======
-* June 2019: Our paper "Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages" is accpeted by ICFEM 2022.
+* June 2022: Our paper "Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages" is accpeted by ICFEM 2022.
