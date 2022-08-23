@@ -14,5 +14,8 @@ I obtained my Ph.D. degree in June 2022 advised by Prof. Meng Sun, and I obtaine
 My current research mainly focuses on trustworthy deep learning, formal modeling and verification.
 
 News
+
 ======
+
+* August 2022: Our paper "Towards a Unifying Logical Framework for Neural Networks" is accepted by ICTAC 2022.
 * June 2022: Our paper "Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages" is accpeted by ICFEM 2022.
