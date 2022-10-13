@@ -16,7 +16,7 @@ My current research mainly focuses on trustworthy deep learning, formal modeling
 News
 ======
 
-* **[September 2022 - Event]**: I will serve on the Program Committee of [TASE’23](https://bristolpl.github.io/tase2023/), to be held in Bristol, UK, on 04-06 July 2023. Welcome submissions!
+* **[October 2022 - Event]**: I will serve on the Program Committee of [TASE’23](https://bristolpl.github.io/tase2023/), to be held in Bristol, UK, on 04-06 July 2023. Welcome submissions!
 * **[September 2022 - Event]**: I give a talk at the [ICTAC 2022 conference](http://viam.science.tsu.ge/clas2022/) speaking on A Unifying Logical Framework for Neural Networks.
 * **[August 2022 - Paper]**: Our paper "Towards a Unifying Logical Framework for Neural Networks" is accepted by ICTAC 2022.
 * **[June 2022 - Paper]**: Our paper "Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages" is accpeted by ICFEM 2022.
