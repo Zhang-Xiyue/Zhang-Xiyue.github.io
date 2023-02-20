@@ -39,6 +39,7 @@ Publications
 Service
 ======
 * PC Member
+  * Program Committee of TASE 2023
   * Program Committee of MLiSE 2021 (co-located with ECML PKDD 2021)
 * Reviewer/sub-reviewer (Journal)
   * TOSEM, JCST, SCP, JSS, FCS, IEEE Transactions on Reliability
