@@ -15,7 +15,7 @@ My current research mainly focuses on trustworthy deep learning, formal modeling
 
 News
 ======
-
+* **[April 2023 - Paper]**: Our paper "Using Z3 for Formal Modeling and Verification of FNN Global Robustness" is accpeted by SEKE 2023.
 * **[December 2022 - Paper]**: Our paper "kProp: Multi-Neuron Relaxation Method for Neural Network Robustness Verification" is accpeted by FSEN 2023.
 * **[October 2022 - News]**: I will serve on the Program Committee of [TASE’23](https://bristolpl.github.io/tase2023/), to be held in Bristol, UK, on 04-06 July 2023. Welcome submissions!
 * **[September 2022 - Event]**: I give a talk at the [ICTAC 2022 conference](http://viam.science.tsu.ge/clas2022/) speaking on A Unifying Logical Framework for Neural Networks.
