@@ -1,5 +1,5 @@
 ---
-title: "Computer-Aided Formal Verification"
+title: "Computer-Aided Formal Verification (2022 Michaelmas term)"
 collection: teaching
 type: "Postgraduate class"
 permalink: /teaching/2022-Michaelmas-teaching
