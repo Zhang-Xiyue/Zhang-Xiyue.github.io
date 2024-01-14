@@ -15,6 +15,7 @@ My current research mainly focuses on trustworthy deep learning, formal modeling
 
 News
 ======
+* **[December 2023 - Paper]**: Our paper "Provable Preimage Under-Approximation for Neural Networks" is accpeted by [TACAS 2024](https://etaps.org/2024/conferences/tacas/).
 * **[October 2023 - Award]**: I am selected as a [DAAD AInet fellow](https://www.daad.de/en/the-daad/postdocnet/details-and-application/) for the Postdoc-NeT-AI 11/2023.
 * **[August 2023 - Paper]**: Our paper "Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks" is accpeted by Journal of Logical and Algebraic Methods in Programming.
 * **[August 2023 - Paper]**: Our paper "When to Trust AI: Advances and Challenges for Certification of Neural Networks" is accepted by FedCSIS 2023.
