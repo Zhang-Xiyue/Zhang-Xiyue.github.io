@@ -44,9 +44,10 @@ Teaching
 Service
 ======
 * PC Member
+  * Program Committee of CAV 2024 (Artifact Evaluation), ICFEM 2024, FACS 2024
   * Program Committee of TASE 2023
   * Program Committee of MLiSE 2021 (co-located with ECML PKDD 2021)
 * Reviewer/sub-reviewer (Journal)
   * TOSEM, JCST, SCP, JSS, FCS, IEEE Transactions on Reliability
 * Reviewer/sub-reviewer (Conference)
-  * CAV, ASE, NeurIPS, CCS, TACAS, ICFEM, TASE, ASIACCS, ICECCS, COORDINATION, FORMATS, SEKE, FACS, LSFA
+  * CAV, TACAS, AAAI, NeurIPS, ASE, CCS, ICFEM, TASE, ASIACCS, ICECCS, COORDINATION, FORMATS, SEKE, FACS
