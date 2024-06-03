@@ -15,6 +15,7 @@ My current research mainly focuses on trustworthy deep learning, formal modeling
 
 News
 ======
+* **[May 2024 - Paper]**: Our paper "Automated Design of Linear Bounding Functions for Sigmoidal Nonlinearities in Neural Networks" is accpeted by [ECML PKDD 2024](https://ecmlpkdd.org/2024/).
 * **[May 2024 - Event]**: I present my work on neural network certification at [Oxbridge Women in Computer Science Conference 2024](https://www.cs.ox.ac.uk/conferences/Oxbridge2024/index.html).
 * **[April 2024 - Event]**: I give a talk at [TACAS 2024](https://etaps.org/2024/conferences/tacas/) speaking on Preimage Approximation (Backward Analysis) for Neural Networks.
 * **[December 2023 - Paper]**: Our paper "Provable Preimage Under-Approximation for Neural Networks" is accpeted by [TACAS 2024](https://link.springer.com/chapter/10.1007/978-3-031-57256-2_1).
