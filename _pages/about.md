@@ -1,20 +1,23 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Short bio"
+excerpt: "Short bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is Xiyue Zhang's homepage!
-I am a Research Associate, working in the QAVAS group of [Prof. Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/), in the [Department of Computer Science](https://www.cs.ox.ac.uk/), University of Oxford (August 2022-).
+I am a Lecturer (Assistant Professor) in [School of Computer Science](https://www.bristol.ac.uk/engineering/schools/computer-science/) at [University of Bristol](https://www.bristol.ac.uk/).
 I obtained my Ph.D. degree in June 2022 advised by [Prof. Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), and I obtained my B.Sc. degree in June 2017 from Peking University.
 My current research mainly focuses on trustworthy deep learning, formal modeling and verification.
 
+I am currently seeking motivated Ph.D. students with a strong interest in formal verification or empirical analysis of data-driven models and systems. Ideal candidates will have a background in computer science or a closely related field.
+
+
 News
 ======
+* **[October 2024 - News]**: I'm starting a new position as Lecturer (Assistant Professor) at University of Bristol!
 * **[August 2024 - Paper]**: Our paper "FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection" is accpeted by [ASE 2024](https://conf.researchr.org/home/ase-2024).
 * **[July 2024 - Event]**: I give a talk at [SAIV 2024](https://www.aiverification.org/) speaking on preimage approximation-based neural network analysis.
 * **[May 2024 - Paper]**: Our paper "Automated Design of Linear Bounding Functions for Sigmoidal Nonlinearities in Neural Networks" is accpeted by [ECML PKDD 2024](https://ecmlpkdd.org/2024/).
