@@ -9,10 +9,11 @@ redirect_from:
 ---
 
 I am a Lecturer (Assistant Professor) in [School of Computer Science](https://www.bristol.ac.uk/engineering/schools/computer-science/) at [University of Bristol](https://www.bristol.ac.uk/).
-I obtained my Ph.D. degree in June 2022 advised by [Prof. Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), and I obtained my B.Sc. degree in June 2017 from Peking University.
-My current research mainly focuses on trustworthy deep learning, formal modeling and verification.
+Previously, I was a postdoctoral research associate working with [Prof. Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/) in [Department of Computer Science](https://www.cs.ox.ac.uk/) at University of Oxford.
+I obtained my Ph.D. degree in June 2022 advised by [Prof. Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), and I obtained my B.Sc. degree in June 2017 from [Peking University](https://english.pku.edu.cn/).
+My current research mainly focuses on trustworthy deep learning, formal modelling and verification.
 
-I am currently seeking motivated Ph.D. students with a strong interest in formal verification or empirical analysis of data-driven models and systems. Ideal candidates will have a background in computer science or a closely related field.
+I am currently looking for motivated Ph.D. students with a strong interest in formal verification or empirical analysis of data-driven models and systems. Ideal candidates will have a background in computer science or a closely related field.
 
 
 News
