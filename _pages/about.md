@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor) in the [School of Computer Science](https://www.bristol.ac.uk/engineering/schools/computer-science/) at the[University of Bristol](https://www.bristol.ac.uk/).
-Previously, I was a postdoctoral research associate working with [Prof. Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/) in the[Department of Computer Science](https://www.cs.ox.ac.uk/) at the University of Oxford.
+I am a Lecturer (Assistant Professor) in the [School of Computer Science](https://www.bristol.ac.uk/engineering/schools/computer-science/) at the [University of Bristol](https://www.bristol.ac.uk/).
+Previously, I was a postdoctoral research associate working with [Prof. Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/) in the [Department of Computer Science](https://www.cs.ox.ac.uk/) at the University of Oxford.
 I completed my Ph.D. in June 2022, advised by [Prof. Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), and obtained my B.Sc. in June 2017 from [Peking University](https://english.pku.edu.cn/).
 
 My current research mainly focuses on trustworthy deep learning, formal modelling and verification.
