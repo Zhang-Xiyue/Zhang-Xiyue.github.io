@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiyue Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Xiyue Zhang"
-description              : &description "Research Associate at University of Oxford"
+description              : &description "Lecturer (Assistant Professor) at University of Bristol"
 url                      : https://zhang-xiyue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zhang-Xiyue/Zhang-Xiyue.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Xiyue Zhang"
   avatar           : "profile.jpg"
-  bio              : "Research Associate, Department of Computer Science, University of Oxford"
-  location         : "Oxford, UK"
+  bio              : "Lecturer (Assistant Professor), School of Computer Science, University of Bristol"
+  location         : "Bristol, UK"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=eBMhCGYAAAAJ&hl=en"
-  email            : "xiyue.zhang@cs.ox.ac.uk"
+  email            : "xiyuezhangpku@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
