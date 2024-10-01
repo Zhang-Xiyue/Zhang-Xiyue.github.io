@@ -17,7 +17,6 @@ I am currently seeking motivated Ph.D. students with a strong interest in formal
 
 News
 ======
-* **[October 2024 - News]**: I'm starting a new position as Lecturer (Assistant Professor) at University of Bristol!
 * **[August 2024 - Paper]**: Our paper "FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection" is accpeted by [ASE 2024](https://conf.researchr.org/home/ase-2024).
 * **[July 2024 - Event]**: I give a talk at [SAIV 2024](https://www.aiverification.org/) speaking on preimage approximation-based neural network analysis.
 * **[May 2024 - Paper]**: Our paper "Automated Design of Linear Bounding Functions for Sigmoidal Nonlinearities in Neural Networks" is accpeted by [ECML PKDD 2024](https://ecmlpkdd.org/2024/).
