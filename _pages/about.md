@@ -12,9 +12,9 @@ Xiyue Zhang (<em>Pronounced: Shee-you-eh Jahng - or, feel free to call me Ciel/C
 Previously, she was a postdoctoral research associate working with [Prof. Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/) in the [Department of Computer Science](https://www.cs.ox.ac.uk/) at the University of Oxford.
 She completed her Ph.D. in June 2022, advised by [Prof. Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), and obtained her B.Sc. in June 2017 from [Peking University](https://english.pku.edu.cn/).
 
-My current research mainly focuses on trustworthy deep learning, formal modelling and verification.
+Her current research mainly focuses on trustworthy deep learning, formal modelling and verification.
 
-I am currently looking for motivated Ph.D. students with a strong interest in formal verification or empirical analysis of data-driven models and systems. Ideal candidates will have a background in computer science or a closely related field.
+She is looking for motivated Ph.D. students with a strong interest in formal verification or empirical analysis of data-driven models and systems. Ideal candidates will have a background in computer science or a closely related field.
 
 
 News
