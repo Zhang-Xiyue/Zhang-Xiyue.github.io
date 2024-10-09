@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 Xiyue Zhang (<em>Pronounced: Shee-you-eh Jahng - or, feel free to call me Ciel/Cielle</em>) is a Lecturer (Assistant Professor) in the [School of Computer Science](https://www.bristol.ac.uk/engineering/schools/computer-science/) at the [University of Bristol](https://www.bristol.ac.uk/).
+Her current research mainly focuses on trustworthy deep learning, formal modelling and verification.
 Previously, she was a postdoctoral research associate working with [Prof. Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/) in the [Department of Computer Science](https://www.cs.ox.ac.uk/) at the University of Oxford.
 She completed her Ph.D. in June 2022, advised by [Prof. Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), and obtained her B.Sc. in June 2017 from [Peking University](https://english.pku.edu.cn/).
 
-Her current research mainly focuses on trustworthy deep learning, formal modelling and verification.
-
-She is looking for motivated Ph.D. students with a strong interest in formal verification or empirical analysis of data-driven models and systems. Ideal candidates will have a background in computer science or a closely related field.
+## Recruitment
+I am looking for motivated Ph.D. students with a strong interest in formal verification or empirical analysis of data-driven models and systems. Ideal candidates will have a background in computer science or a closely related field. Scholarships are available for both home and international students, including those at the University-level, Faculty-level, CDTs, CSC, and others. Feel free to email me if you'd like to discuss further!
 
 
 News
