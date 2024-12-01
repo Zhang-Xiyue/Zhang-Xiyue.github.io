@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+## Bio
 Xiyue Zhang (<em>Pronounced: Shee-you-eh Jahng</em>) is a Lecturer (US equiv. Assistant Professor) in the [School of Computer Science](https://www.bristol.ac.uk/engineering/schools/computer-science/) at the [University of Bristol](https://www.bristol.ac.uk/).
 Her current research mainly focuses on trustworthy deep learning, formal modelling and verification.
 Previously, she was a postdoctoral research associate working with [Prof. Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/) in the Department of Computer Science at the [University of Oxford](https://www.cs.ox.ac.uk/) (2022-2024).
