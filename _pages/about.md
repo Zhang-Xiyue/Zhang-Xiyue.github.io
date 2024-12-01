@@ -67,8 +67,8 @@ This is an open group, so feel free to spread the word! To observe, participate 
 
 ## Conference
 - [FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection](https://dl.acm.org/doi/abs/10.1145/3691620.3695472) (ASE 2024)\\
-Jialuo Chen, Jingyi Wang, **Xiyue Zhang**, Youcheng Sun, Marta Kwiatkowska, Jiming Chen, Peng Cheng
-[[arxiv](https://arxiv.org/pdf/2409.09130)] \\
+Jialuo Chen, Jingyi Wang, **Xiyue Zhang**, Youcheng Sun, Marta Kwiatkowska, Jiming Chen, Peng Cheng \\
+[[arxiv](https://arxiv.org/pdf/2409.09130)] 
 [[code](https://github.com/Testing4AI/FAST)]
 
 - [Automated Design of Linear Bounding Functions for Sigmoidal Nonlinearities in Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-70368-3_23) (ECML-PKDD 2024) \\
@@ -76,7 +76,7 @@ Matthias König, **Xiyue Zhang**, Holger H Hoos, Marta Kwiatkowska, Jan N van Ri
 [[arxiv](https://arxiv.org/pdf/2406.10154)]
 
 - [Provable Preimage Under-Approximation for Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-57256-2_1) (TACAS 2024) \\
-\\ **Xiyue Zhang**, Benjie Wang, Marta Kwiatkowska
+ **Xiyue Zhang**, Benjie Wang, Marta Kwiatkowska \\
 [[arxiv](https://arxiv.org/pdf/2305.03686)] [[code](https://github.com/Zhang-Xiyue/PreimageApproxForNNs)]
 
 ## Journal
