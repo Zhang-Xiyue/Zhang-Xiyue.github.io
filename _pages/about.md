@@ -34,7 +34,7 @@ I am looking for motivated Ph.D. students with a strong interest in formal verif
 Join our [Teams channel](https://teams.microsoft.com/l/channel/19%3a22010dd992a94c4fad51ebbe0e678fc5%40thread.tacv2/General?groupId=7c8a30f5-2218-4763-9fa3-7ee3d23ab033&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) for more details.
 This is an open group, so feel free to spread the word! To observe, participate in debates, or present, please reach out. Join our mailing list for weekly invitations and updates on future talks.
 - *2024.08*: &nbsp;🎉🎉 Our paper "FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection" is accpeted by [ASE 2024](https://conf.researchr.org/home/ase-2024).
-- *2024.07*: I give a talk at [SAIV 2024](https://www.aiverification.org/) speaking on preimage approximation-based neural network analysis.
+- *2024.07*: &nbsp; ✈️✈️ I give a talk at [SAIV 2024](https://www.aiverification.org/) speaking on preimage approximation-based neural network analysis.
 - *2024.05*: &nbsp;🎉🎉 Our paper "Automated Design of Linear Bounding Functions for Sigmoidal Nonlinearities in Neural Networks" is accpeted by [ECML PKDD 2024](https://ecmlpkdd.org/2024/).
 - *2024.05*: I present my work on neural network certification at [Oxbridge Women in Computer Science Conference 2024](https://www.cs.ox.ac.uk/conferences/Oxbridge2024/index.html).
 - *2024.04*: I am going to give a talk at [TACAS 2024](https://etaps.org/2024/conferences/tacas/) speaking on Preimage Approximation (Backward Analysis) for Neural Networks. See you in Luxembourg!
