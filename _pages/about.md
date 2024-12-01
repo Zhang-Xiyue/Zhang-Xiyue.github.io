@@ -75,7 +75,7 @@ Jialuo Chen, Jingyi Wang, **Xiyue Zhang**, Youcheng Sun, Marta Kwiatkowska, Jimi
 - *2022.06* Doctoral Dissertation Award of Peking University 
 - *2020&2021.10* National Scholarship (Highest-level scholarship 0.1%)
 
-# 📖 Educations
+# 📖 Education
 - *2017.09 - 2022.06*, PhD in Applied Mathematics, School of Mathematical Sciences, Peking University.
 - *2019.02 - 2020.03*, Research Assistant, School of Computer Science & Engineering, Nanyang Technological University.
 - *2017.08*: Visiting Student, Singapore University of Technology and Design.
