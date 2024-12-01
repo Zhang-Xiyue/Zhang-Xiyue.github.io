@@ -67,7 +67,6 @@ This is an open group, so feel free to spread the word! To observe, participate 
 
 ## [FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection](https://dl.acm.org/doi/abs/10.1145/3691620.3695472) (ASE 2024)
 Jialuo Chen, Jingyi Wang, **Xiyue Zhang**, Youcheng Sun, Marta Kwiatkowska, Jiming Chen, Peng Cheng
-
 [[arxiv](https://arxiv.org/pdf/2409.09130)] [[code](https://github.com/Testing4AI/FAST)]
 
 # 🎖 Honors and Awards
