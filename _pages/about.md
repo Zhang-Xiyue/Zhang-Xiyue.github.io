@@ -66,35 +66,47 @@ This is an open group, so feel free to spread the word! To observe, participate 
 </div> -->
 
 ## Conference
-- [FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection](https://dl.acm.org/doi/abs/10.1145/3691620.3695472) (ASE 2024)\\
+- FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection (ASE 2024)\\
 Jialuo Chen, Jingyi Wang, **Xiyue Zhang**, Youcheng Sun, Marta Kwiatkowska, Jiming Chen, Peng Cheng \\
+[[link](https://dl.acm.org/doi/abs/10.1145/3691620.3695472)]
 [[arxiv](https://arxiv.org/pdf/2409.09130)] 
 [[code](https://github.com/Testing4AI/FAST)]
 
-- [Automated Design of Linear Bounding Functions for Sigmoidal Nonlinearities in Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-70368-3_23) (ECML-PKDD 2024) \\
+- Automated Design of Linear Bounding Functions for Sigmoidal Nonlinearities in Neural Networks (ECML-PKDD 2024) \\
 Matthias König, **Xiyue Zhang**, Holger H Hoos, Marta Kwiatkowska, Jan N van Rijn \\
+[[link](https://link.springer.com/chapter/10.1007/978-3-031-70368-3_23)]
 [[arxiv](https://arxiv.org/pdf/2406.10154)]
 
-- [Provable Preimage Under-Approximation for Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-57256-2_1) (TACAS 2024) \\
+- Provable Preimage Under-Approximation for Neural Networks (TACAS 2024) \\
  **Xiyue Zhang**, Benjie Wang, Marta Kwiatkowska \\
-[[arxiv](https://arxiv.org/pdf/2305.03686)] [[code](https://github.com/Zhang-Xiyue/PreimageApproxForNNs)]
+[[link](https://link.springer.com/chapter/10.1007/978-3-031-57256-2_1)] [[arxiv](https://arxiv.org/pdf/2305.03686)] [[code](https://github.com/Zhang-Xiyue/PreimageApproxForNNs)]
 
-- [Decision-Guided Weighted Automata Extraction from Recurrent Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/17391) (AAAI 2021) \\
+- Decision-Guided Weighted Automata Extraction from Recurrent Neural Networks (AAAI 2021) \\
  **Xiyue Zhang**, Xiaoning Du, Xiaofei Xie, Lei Ma, Yang Liu, Meng Sun
+[[link](https://ojs.aaai.org/index.php/AAAI/article/view/17391)]
 
-- [Towards Characterizing Adversarial Defects of Deep Learning Software from the Lens of Uncertainty](https://dl.acm.org/doi/abs/10.1145/3377811.3380368) (ICSE 2020) \\
+- Towards Characterizing Adversarial Defects of Deep Learning Software from the Lens of Uncertainty (ICSE 2020) \\
  **Xiyue Zhang**, Xiaofei Xie, Lei Ma, Xiaoning Du, Qiang Hu, Yang Liu, Jianjun Zhao, Meng Sun \\
+ [[link](https://dl.acm.org/doi/abs/10.1145/3377811.3380368)]
  [[arxiv](https://arxiv.org/pdf/2004.11573)]
 
 ## Journal
-- [Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks](https://www.sciencedirect.com/science/article/abs/pii/S2352220823000615) (JLAMP) \\
+- Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (JLAMP) \\
 Zeming Wei, **Xiyue Zhang**, Yihao Zhang, Meng Sun \\
+[[link](https://www.sciencedirect.com/science/article/abs/pii/S2352220823000615)]
 [[arxiv](https://arxiv.org/pdf/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
-- [DeepGlobal: A Framework for Global Robustness Verification of Feedforward Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S138376212200128X) (JSA) \\
-Weidi Sun, Yuteng Lu, **Xiyue Zhang**, Meng Sun
+- DeepGlobal: A Framework for Global Robustness Verification of Feedforward Neural Networks (JSA) \\
+Weidi Sun, Yuteng Lu, **Xiyue Zhang**, Meng Sun \\
+[[link](https://www.sciencedirect.com/science/article/abs/pii/S138376212200128X)]
 
+- A Formal Framework Capturing Real-Time and Stochastic Behavior in Connectors (Science of Computer Programming) \\
+Yi Li, **Xiyue Zhang**, Yuanyi Ji, Meng Sun \\
+[[link](https://www.sciencedirect.com/science/article/pii/S0167642318301631)]
 
+- Reasoning about Connectors Using Coq and Z3 (Science of Computer Programming)\\
+**Xiyue Zhang**, Weijiang Hong, Yi Li, Meng Sun \\
+[[link](https://www.sciencedirect.com/science/article/pii/S0167642318304076)]
 # 🏫 Teaching
 ## Undergraduate Supervision
 - *2024.10-2025.05* Nikolas Willems (MEng-CS and Math)
