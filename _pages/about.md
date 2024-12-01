@@ -79,6 +79,13 @@ Matthias König, **Xiyue Zhang**, Holger H Hoos, Marta Kwiatkowska, Jan N van Ri
  **Xiyue Zhang**, Benjie Wang, Marta Kwiatkowska \\
 [[arxiv](https://arxiv.org/pdf/2305.03686)] [[code](https://github.com/Zhang-Xiyue/PreimageApproxForNNs)]
 
+- [Decision-Guided Weighted Automata Extraction from Recurrent Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/17391) (AAAI 2021) \\
+ **Xiyue Zhang**, Xiaoning Du, Xiaofei Xie, Lei Ma, Yang Liu, Meng Sun
+
+- [Towards Characterizing Adversarial Defects of Deep Learning Software from the Lens of Uncertainty](https://dl.acm.org/doi/abs/10.1145/3377811.3380368) (ICSE 2020) \\
+ **Xiyue Zhang**, Xiaofei Xie, Lei Ma, Xiaoning Du, Qiang Hu, Yang Liu, Jianjun Zhao, Meng Sun \\
+ [[arxiv](https://arxiv.org/pdf/2004.11573)]
+
 ## Journal
 - [Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks](https://www.sciencedirect.com/science/article/abs/pii/S2352220823000615) (JLAMP) \\
 Zeming Wei, **Xiyue Zhang**, Yihao Zhang, Meng Sun \\
