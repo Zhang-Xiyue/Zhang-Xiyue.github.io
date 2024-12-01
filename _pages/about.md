@@ -47,8 +47,7 @@ This is an open group, so feel free to spread the word! To observe, participate 
 - *2022.12*: &nbsp;🎉🎉 Our paper "kProp: Multi-Neuron Relaxation Method for Neural Network Robustness Verification" is accpeted by FSEN 2023.
 - *2022.10*: I will serve on the Program Committee of [TASE’23](https://bristolpl.github.io/tase2023/), to be held in Bristol, UK, on 04-06 July 2023. Welcome submissions!
 - *2022.09*: I give a talk at the [ICTAC 2022 conference](http://viam.science.tsu.ge/clas2022/) speaking on A Unifying Logical Framework for Neural Networks.
-<!-- - *2022.08*: &nbsp;🎉🎉 Our paper "Towards a Unifying Logical Framework for Neural Networks" is accepted by ICTAC 2022.
-- *2022.06*: &nbsp;🎉🎉 Our paper "Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages" is accpeted by ICFEM 2022. -->
+
 
 
 
