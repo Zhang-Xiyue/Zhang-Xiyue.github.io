@@ -91,12 +91,12 @@ Matthias König, **Xiyue Zhang**, Holger H Hoos, Marta Kwiatkowska, Jan N van Ri
  [[arxiv](https://arxiv.org/pdf/2004.11573)]
 
 ## Journal
-- Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (JLAMP) \\
+- Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (Journal of Logical and Algebraic Methods in Programming) \\
 Zeming Wei, **Xiyue Zhang**, Yihao Zhang, Meng Sun \\
 [[link](https://www.sciencedirect.com/science/article/abs/pii/S2352220823000615)]
 [[arxiv](https://arxiv.org/pdf/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
-- DeepGlobal: A Framework for Global Robustness Verification of Feedforward Neural Networks (JSA) \\
+- DeepGlobal: A Framework for Global Robustness Verification of Feedforward Neural Networks (Journal of Systems Architecture) \\
 Weidi Sun, Yuteng Lu, **Xiyue Zhang**, Meng Sun \\
 [[link](https://www.sciencedirect.com/science/article/abs/pii/S138376212200128X)]
 
