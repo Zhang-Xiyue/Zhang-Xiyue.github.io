@@ -69,7 +69,9 @@ This is an open group, so feel free to spread the word! To observe, participate 
 Jialuo Chen, Jingyi Wang, **Xiyue Zhang**, Youcheng Sun, Marta Kwiatkowska, Jiming Chen, Peng Cheng
 [[arxiv](https://arxiv.org/pdf/2409.09130)] [[code](https://github.com/Testing4AI/FAST)]
 
-
+## [Automated Design of Linear Bounding Functions for Sigmoidal Nonlinearities in Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-70368-3_23) (ECML-PKDD 2024)
+Matthias König, **Xiyue Zhang**, Holger H Hoos, Marta Kwiatkowska, Jan N van Rijn
+[[arxiv](https://arxiv.org/pdf/2406.10154)]
 
 # 🏫 Teaching
 ## Undergraduate Supervision
