@@ -53,8 +53,8 @@ This is an open group, so feel free to spread the word! To observe, participate 
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
@@ -73,7 +73,7 @@ Jialuo Chen, Jingyi Wang, **Xiyue Zhang**, Youcheng Sun, Marta Kwiatkowska, Jimi
 - *2023.10* DAAD AInet fellow for the Postdoc-NeT-AI 
 - *2023.08* Future Digileaders Award 2023 (by Digital Futures for early-career researchers)
 - *2022.06* Doctoral Dissertation Award of Peking University 
-- *2020&2021.10* National Scholarship (Highest-level scholarship 0.1\%)
+- *2020&2021.10* National Scholarship (Highest-level scholarship 0.1%)
 
 # 📖 Educations
 - *2017.09 - 2022.06*, PhD in Applied Mathematics, School of Mathematical Sciences, Peking University.
