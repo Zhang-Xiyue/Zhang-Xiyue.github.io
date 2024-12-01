@@ -18,12 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Xiyue Zhang (<em>Pronounced: Shee-you-eh Jahng - or, feel free to call me Ciel/Cielle</em>) is a Lecturer (Assistant Professor) in the [School of Computer Science](https://www.bristol.ac.uk/engineering/schools/computer-science/) at the [University of Bristol](https://www.bristol.ac.uk/).
+Her current research mainly focuses on trustworthy deep learning, formal modelling and verification.
 Previously, she was a postdoctoral research associate working with [Prof. Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/) in the Department of Computer Science at the [University of Oxford](https://www.cs.ox.ac.uk/) (2022-2024).
 She received her Ph.D. (2022) in Applied Mathematics, advised by [Prof. Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), and her B.Sc. (2017) in Information and Computing Science from School of Mathematical Sciences, [Peking University](https://english.pku.edu.cn/).
 
-Her current research mainly focuses on trustworthy deep learning, formal modelling and verification.
+
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+## Recruitment
+I am looking for motivated Ph.D. students with a strong interest in formal verification or empirical analysis of data-driven models and systems. Ideal candidates will have a background in computer science or a closely related field. Scholarships are available for both home and international students, including those at the University-level, Faculty-level, CDTs, CSC, and others. Feel free to email me if you'd like to discuss further!
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 I am honoured to present an inaugural talk on Neural Network Certification to kick off the Trustworthy Systems Lab (TSL) seminar series at the University of Bristol.
@@ -48,33 +51,37 @@ This is an open group, so feel free to spread the word! To observe, participate 
 
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## [FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection](https://dl.acm.org/doi/abs/10.1145/3691620.3695472) (ASE 2024)
+Jialuo Chen, Jingyi Wang, **Xiyue Zhang**, Youcheng Sun, Marta Kwiatkowska, Jiming Chen, Peng Cheng
+[[arxiv](https://arxiv.org/pdf/2409.09130)] [[code](https://github.com/Testing4AI/FAST)]
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* DAAD AInet fellow for the Postdoc-NeT-AI 
+- *2023.08* Future Digileaders Award 2023 (by Digital Futures for early-career researchers)
+- *2022.06* Doctoral Dissertation Award of Peking University 
+- *2020&2021.10* National Scholarship (Highest-level scholarship 0.1\%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2017.09 - 2022.06*, PhD in Applied Mathematics, School of Mathematical Sciences, Peking University.
+- *2019.02 - 2020.03*, Research Assistant, School of Computer Science & Engineering, Nanyang Technological University.
+- *2017.08*: Visiting Student, Singapore University of Technology and Design.
+- *2013.09 - 2017.06*, BSc in Information and Computing Science, School of Mathematical Sciences, Peking University.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.11*, Inaugural talk on Neural Network Certification hosted at the Trustworthy Systems Lab (TSL) seminar series.
+- *2024.04*, Recent Advances in Neural Network Certification, Seminar talk at CISPA Helmholtz Center for Information Security.
+- *2023.07*, Preimage Approximation for Neural Networks and Beyond, Seminar talk at School of Mathematical Scienes, Peking University.
