@@ -73,8 +73,8 @@ Jialuo Chen, Jingyi Wang, **Xiyue Zhang**, Youcheng Sun, Marta Kwiatkowska, Jimi
 
 # 🏫 Teaching
 ## Undergraduate Supervision
-- *2024.10* Nikolas Willems (MEng-CS and Math)
-- *2024.10* Xiqi Zheng (MEng-CS)
+- *2024.10-2025.05* Nikolas Willems (MEng-CS and Math)
+- *2025.01-2025.05* Xiqi Zheng (MEng-CS)
 
 ## Teaching Units
 - *TB1 2024-25* Programming in C (Project Assesement)
