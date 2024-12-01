@@ -73,6 +73,10 @@ Jialuo Chen, Jingyi Wang, **Xiyue Zhang**, Youcheng Sun, Marta Kwiatkowska, Jimi
 Matthias König, **Xiyue Zhang**, Holger H Hoos, Marta Kwiatkowska, Jan N van Rijn
 [[arxiv](https://arxiv.org/pdf/2406.10154)]
 
+## [Provable Preimage Under-Approximation for Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-57256-2_1) (TACAS 2024)
+[[arxiv](https://arxiv.org/pdf/2305.03686)] [[code](https://github.com/Zhang-Xiyue/PreimageApproxForNNs)]
+
+
 # 🏫 Teaching
 ## Undergraduate Supervision
 - *2024.10-2025.05* Nikolas Willems (MEng-CS and Math)
