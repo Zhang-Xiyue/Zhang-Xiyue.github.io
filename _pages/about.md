@@ -65,16 +65,26 @@ This is an open group, so feel free to spread the word! To observe, participate 
 </div>
 </div> -->
 
-## [FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection](https://dl.acm.org/doi/abs/10.1145/3691620.3695472) (ASE 2024)
+## Conference
+- [FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection](https://dl.acm.org/doi/abs/10.1145/3691620.3695472) (ASE 2024)\\
 Jialuo Chen, Jingyi Wang, **Xiyue Zhang**, Youcheng Sun, Marta Kwiatkowska, Jiming Chen, Peng Cheng
-[[arxiv](https://arxiv.org/pdf/2409.09130)] [[code](https://github.com/Testing4AI/FAST)]
+[[arxiv](https://arxiv.org/pdf/2409.09130)] \\
+[[code](https://github.com/Testing4AI/FAST)]
 
-## [Automated Design of Linear Bounding Functions for Sigmoidal Nonlinearities in Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-70368-3_23) (ECML-PKDD 2024)
-Matthias König, **Xiyue Zhang**, Holger H Hoos, Marta Kwiatkowska, Jan N van Rijn
+- [Automated Design of Linear Bounding Functions for Sigmoidal Nonlinearities in Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-70368-3_23) (ECML-PKDD 2024) \\
+Matthias König, **Xiyue Zhang**, Holger H Hoos, Marta Kwiatkowska, Jan N van Rijn \\
 [[arxiv](https://arxiv.org/pdf/2406.10154)]
 
-## [Provable Preimage Under-Approximation for Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-57256-2_1) (TACAS 2024)
+- [Provable Preimage Under-Approximation for Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-57256-2_1) (TACAS 2024) \\
+\\ **Xiyue Zhang**, Benjie Wang, Marta Kwiatkowska
 [[arxiv](https://arxiv.org/pdf/2305.03686)] [[code](https://github.com/Zhang-Xiyue/PreimageApproxForNNs)]
+
+## Journal
+- [Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks](https://www.sciencedirect.com/science/article/abs/pii/S2352220823000615) (JLAMP) \\
+Zeming Wei, **Xiyue Zhang**, Yihao Zhang, Meng Sun \\
+[[arxiv](https://arxiv.org/pdf/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
+
+
 
 
 # 🏫 Teaching
