@@ -82,7 +82,7 @@ Matthias König, **Xiyue Zhang**, Holger H Hoos, Marta Kwiatkowska, Jan N van Ri
 [[link](https://link.springer.com/chapter/10.1007/978-3-031-57256-2_1)] [[arxiv](https://arxiv.org/pdf/2305.03686)] [[code](https://github.com/Zhang-Xiyue/PreimageApproxForNNs)]
 
 - Decision-Guided Weighted Automata Extraction from Recurrent Neural Networks (AAAI 2021) \\
- **Xiyue Zhang**, Xiaoning Du, Xiaofei Xie, Lei Ma, Yang Liu, Meng Sun
+ **Xiyue Zhang**, Xiaoning Du, Xiaofei Xie, Lei Ma, Yang Liu, Meng Sun \\
 [[link](https://ojs.aaai.org/index.php/AAAI/article/view/17391)]
 
 - Towards Characterizing Adversarial Defects of Deep Learning Software from the Lens of Uncertainty (ICSE 2020) \\
