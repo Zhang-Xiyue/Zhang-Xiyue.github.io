@@ -84,7 +84,8 @@ Matthias König, **Xiyue Zhang**, Holger H Hoos, Marta Kwiatkowska, Jan N van Ri
 Zeming Wei, **Xiyue Zhang**, Yihao Zhang, Meng Sun \\
 [[arxiv](https://arxiv.org/pdf/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
-
+- [DeepGlobal: A Framework for Global Robustness Verification of Feedforward Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S138376212200128X) (JSA) \\
+Weidi Sun, Yuteng Lu, **Xiyue Zhang**, Meng Sun
 
 
 # 🏫 Teaching
