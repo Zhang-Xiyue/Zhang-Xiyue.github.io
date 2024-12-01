@@ -107,6 +107,8 @@ Yi Li, **Xiyue Zhang**, Yuanyi Ji, Meng Sun \\
 - Reasoning about Connectors Using Coq and Z3 (Science of Computer Programming)\\
 **Xiyue Zhang**, Weijiang Hong, Yi Li, Meng Sun \\
 [[link](https://www.sciencedirect.com/science/article/pii/S0167642318304076)]
+
+
 # 🏫 Teaching
 ## Undergraduate Supervision
 - *2024.10-2025.05* Nikolas Willems (MEng-CS and Math)
