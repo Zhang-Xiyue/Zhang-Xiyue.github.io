@@ -64,6 +64,19 @@ This is an open group, so feel free to spread the word! To observe, participate 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+## Preprint
+- Risk-Averse Certification of Bayesian Neural Networks \\
+**Xiyue Zhang**, Zifan Wang, Yulong Gao, Licio Romao, Alessandro Abate, Marta Kwiatkowska \\
+
+
+- PREMAP: A Unifying PREiMage APproximation Framework for Neural Networks \\
+**Xiyue Zhang**, Benjie Wang, Marta Kwiatkowska, Huan Zhang \\
+[[arxiv](https://arxiv.org/pdf/2408.09262)]
+
+- Protecting Deep Learning Model Copyrights with Adversarial Example-Free Reuse Detection \\
+Xiaokun Luan, **Xiyue Zhang**, Jingyi Wang, Meng Sun \\
+[[arxiv](https://arxiv.org/pdf/2407.03883)]
+
 
 ## Conference
 - FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection (ASE 2024)\\
