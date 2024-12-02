@@ -66,7 +66,7 @@ This is an open group, so feel free to spread the word! To observe, participate 
 </div> -->
 ## Preprint
 - Risk-Averse Certification of Bayesian Neural Networks \\
-**Xiyue Zhang**, Zifan Wang, Yulong Gao, Licio Romao, Alessandro Abate, Marta Kwiatkowska \\
+**Xiyue Zhang**, Zifan Wang, Yulong Gao, Licio Romao, Alessandro Abate, Marta Kwiatkowska 
 
 
 - PREMAP: A Unifying PREiMage APproximation Framework for Neural Networks \\
