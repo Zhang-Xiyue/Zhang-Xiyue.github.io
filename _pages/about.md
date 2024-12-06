@@ -64,6 +64,8 @@ This is an open group, so feel free to spread the word! To observe, participate 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+A complete list of my publications can be found in [Google Scholar](https://scholar.google.com/citations?hl=en&user=eBMhCGYAAAAJ).
+
 ## Preprint
 - Risk-Averse Certification of Bayesian Neural Networks \\
 **Xiyue Zhang**, Zifan Wang, Yulong Gao, Licio Romao, Alessandro Abate, Marta Kwiatkowska \\
