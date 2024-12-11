@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 ## Bio
-Xiyue Zhang (<em>Pronounced: Shee-you-eh Jahng</em>, feel free to call me <em>Yue</em>, <em>Cielle</em> or <em>Dr. Zhang</em>, whichever you find easier) is a Lecturer (US equiv. Assistant Professor) in the [School of Computer Science](https://www.bristol.ac.uk/engineering/schools/computer-science/) at the [University of Bristol](https://www.bristol.ac.uk/).
+Xiyue Zhang (<em>Pronounced: Shee-you-eh Jahng</em>) is a Lecturer (US equiv. Assistant Professor) in the [School of Computer Science](https://www.bristol.ac.uk/engineering/schools/computer-science/) at the [University of Bristol](https://www.bristol.ac.uk/).
 Her current research mainly focuses on trustworthy deep learning, formal modelling and verification.
 Previously, she was a postdoctoral research associate working with [Prof. Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/) in the Department of Computer Science at the [University of Oxford](https://www.cs.ox.ac.uk/) (2022-2024).
 She received her Ph.D. (2022) in Applied Mathematics, advised by [Prof. Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), and her B.Sc. (2017) in Information and Computing Science from School of Mathematical Sciences, [Peking University](https://english.pku.edu.cn/).
