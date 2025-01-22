@@ -93,6 +93,7 @@ Jialuo Chen, Jingyi Wang, **Xiyue Zhang**, Youcheng Sun, Marta Kwiatkowska, Jimi
 Matthias König, **Xiyue Zhang**, Holger H Hoos, Marta Kwiatkowska, Jan N van Rijn \\
 [[link](https://link.springer.com/chapter/10.1007/978-3-031-70368-3_23)]
 [[arxiv](https://arxiv.org/pdf/2406.10154)]
+[[code](https://github.com/ADA-research/nnv-bound-configuration)]
 
 - Provable Preimage Under-Approximation for Neural Networks (TACAS 2024) \\
  **Xiyue Zhang**, Benjie Wang, Marta Kwiatkowska \\
