@@ -30,7 +30,7 @@ She received her Ph.D. (2022) in Applied Mathematics, advised by [Prof. Meng Sun
 I am looking for motivated Ph.D. students with a strong interest in formal verification or empirical analysis of data-driven models and systems. Ideal candidates will have a background in computer science or a closely related field. Scholarships are available for both home and international students, including those at the University-level, Faculty-level, CDTs, CSC, and others. Feel free to email me if you'd like to discuss further!
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Our paper "Runtime Backdoor Detection for Federated Learning via Representational Dissimilarity Analysis" has been accepted by IEEE Transactions on Dependable and Secure Computing (TDSC). Looking forward to sharing more details once the final version is available! 
+- *2025.03*: &nbsp;🎉🎉 Our paper "Runtime Backdoor Detection for Federated Learning via Representational Dissimilarity Analysis" has been accepted by IEEE Transactions on Dependable and Secure Computing (TDSC). Check out the arxiv version [here](http://arxiv.org/abs/2503.04473). 
 - *2025.01*: &nbsp;🎟️🎟️ I am happy to serve on the panel for the AI4CI (Artificial Intelligence for Collective Intelligence) hub ECR event. Look forward to an engaging discussion!
 - *2024.11*: &nbsp;🎉🎉 I am honoured to present an inaugural talk on Neural Network Certification to kick off the Trustworthy Systems Lab (TSL) seminar series at the University of Bristol.
 Join our [Teams channel](https://teams.microsoft.com/l/channel/19%3a22010dd992a94c4fad51ebbe0e678fc5%40thread.tacv2/General?groupId=7c8a30f5-2218-4763-9fa3-7ee3d23ab033&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) for more details.
