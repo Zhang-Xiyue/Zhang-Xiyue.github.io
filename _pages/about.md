@@ -138,6 +138,7 @@ Yi Li, **Xiyue Zhang**, Yuanyi Ji, Meng Sun \\
 - *TB1 2024-25* Programming in C (Project Assesement)
 
 # 🎖 Honors and Awards
+- *2025.03* Research Commercialisation Award
 - *2023.10* DAAD AInet fellow for the Postdoc-NeT-AI 
 - *2023.08* Future Digileaders Award 2023 (by Digital Futures for early-career researchers)
 - *2022.06* Doctoral Dissertation Award of Peking University 
