@@ -47,13 +47,13 @@ This is an open group, so feel free to spread the word! To observe, participate 
 - *2024.04*: &nbsp; ✈️✈️ I am going to give a talk at [TACAS 2024](https://etaps.org/2024/conferences/tacas/) speaking on Preimage Approximation (Backward Analysis) for Neural Networks. See you in Luxembourg!
 - *2023.12*: &nbsp;🎉🎉 Our paper "Provable Preimage Under-Approximation for Neural Networks" is accpeted by [TACAS 2024](https://link.springer.com/chapter/10.1007/978-3-031-57256-2_1).
 - *2023.10*: &nbsp;🎉🎉 I am selected as a [DAAD AInet fellow](https://www.daad.de/en/the-daad/postdocnet/details-and-application/) for the Postdoc-NeT-AI 11/2023.
-- *2023.08*: &nbsp;🎉🎉 Our paper "Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks" is accpeted by Journal of Logical and Algebraic Methods in Programming.
-- *2023.08*: &nbsp;🎉🎉 Our paper "When to Trust AI: Advances and Challenges for Certification of Neural Networks" is accepted by FedCSIS 2023.
+<!-- - *2023.08*: &nbsp;🎉🎉 Our paper "Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks" is accpeted by Journal of Logical and Algebraic Methods in Programming. -->
+<!-- - *2023.08*: &nbsp;🎉🎉 Our paper "When to Trust AI: Advances and Challenges for Certification of Neural Networks" is accepted by FedCSIS 2023.
 - *2023.08*: &nbsp;🎉🎉 I am selected as [Future Digileader '23](https://www.digitalfutures.kth.se/news/future-digileaders-23/) by [Digital Futures](https://www.digitalfutures.kth.se/).
 - *2023.04*: &nbsp;🎉🎉 Our paper "Using Z3 for Formal Modeling and Verification of FNN Global Robustness" is accpeted by SEKE 2023.
 - *2022.12*: &nbsp;🎉🎉 Our paper "kProp: Multi-Neuron Relaxation Method for Neural Network Robustness Verification" is accpeted by FSEN 2023.
 - *2022.10*: I will serve on the Program Committee of [TASE’23](https://bristolpl.github.io/tase2023/), to be held in Bristol, UK, on 04-06 July 2023. Welcome submissions!
-- *2022.09*: I give a talk at the [ICTAC 2022 conference](http://viam.science.tsu.ge/clas2022/) speaking on A Unifying Logical Framework for Neural Networks.
+- *2022.09*: I give a talk at the [ICTAC 2022 conference](http://viam.science.tsu.ge/clas2022/) speaking on A Unifying Logical Framework for Neural Networks. -->
 
 
 
