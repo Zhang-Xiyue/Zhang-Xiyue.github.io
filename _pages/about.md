@@ -128,12 +128,16 @@ Yi Li, **Xiyue Zhang**, Yuanyi Ji, Meng Sun \\
 
 
 # 🏫 Teaching
-## Undergraduate Supervision
-- *2024.10-2025.05* Nikolas Willems (MEng-CS and Math)
-- *2025.01-2025.05* Xiqi Zheng (MEng-CS)
+
+Xiyue Zhang teaches across a range of undergraduate Computer Science programmes, including first-year mathematical foundations to advanced topics in machine learning and artificial intelligence. Her teaching currently includes Mathematics for Computer Science, Machine Learning, and Artificial Intelligence Algorithms and Tools, covering both theoretical principles and practical techniques that underpin modern AI systems.
+
 
 ## Teaching Units
-- *TB1 2024-25* Programming in C (Project Assesement)
+- *TB1 2026-27* Mathematics for Computer Science A (Year-1 UG)
+- *TB2 2026-27* AI Tools and Methods  (Year-2 UG)
+
+- *TB1 2025-26* Mathematics for Computer Science A (Year-1 UG)
+- *TB1 2025-26* Machine Learning (Year-3 UG)
 
 # 🎖 Honors and Awards
 - *2025.03* Research Commercialisation Award
