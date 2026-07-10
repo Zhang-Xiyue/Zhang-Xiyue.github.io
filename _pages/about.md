@@ -30,7 +30,8 @@ She received her Ph.D. in Applied Mathematics, advised by [Prof. Meng Sun](https
 I am looking for motivated Ph.D. students with a strong interest in formal verification or empirical analysis of data-driven models and systems. Ideal candidates will have a background in computer science or a closely related field. Scholarships are available for both home and international students, including those at the University-level, Faculty-level, CDTs, CSC, and others. Feel free to email me if you'd like to discuss further!
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 Our paper, Privacy-Preserving Robustness Verification for Neural Networks, has been accepted by [UAI 2026](https://www.auai.org/uai2026/).
+- *2026.07*: &nbsp;🎉🎉 Our paper, Calibrated Adversarial Sampling: Stabilizing Multi-Attack Adversarial Training via Bandit Optimization, has been accepted by [ACM MM 2026](https://2026.acmmm.org/).
+- *2026.06*: &nbsp;🎉🎉 Our paper, [Privacy-Preserving Robustness Verification for Neural Networks](https://arxiv.org/pdf/2607.05251), has been accepted by [UAI 2026](https://www.auai.org/uai2026/).
 - *2025.10*: &nbsp;🎉🎉 Our paper, [Risk-Averse Certification of Bayesian Neural Networks](https://arxiv.org/pdf/2411.19729), has been accepted by [SETTA 2025](https://www.setta2025.uk/home).
 - *2025.09*: &nbsp; ✈️✈️ Our paper "Generalizing Robustness from $l_p$ to Unforeseen Attack via Calibrated Adversarial Sampling" will be presented at the [Reliable ML](https://reliablemlworkshop.github.io/) workshop @ [NeurIPS 2025](https://neurips.cc/).
 - *2025.07*: &nbsp;🎉🎉 Our paper, [PREMAP: A Unifying PREiMage APproximation Framework for Neural Networks](https://arxiv.org/pdf/2408.09262), has been accepted by Journal of Machine Learning Research (JMLR).
