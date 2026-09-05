@@ -29,10 +29,7 @@ I am looking for motivated **PhD students** to join my group and work on: (i) fo
 
 ### How to Apply
 
-If you are interested in joining my group, please email me with:
-- Your CV
-- Academic transcripts
-- A brief description of your research interests, relevant experience, and the topics you would be interested in exploring
+If you are interested in joining my group, please email me with: (i) Your CV; (ii) Academic transcripts; (iii) A brief description of your research interests, relevant experience, and the topics you would be interested in exploring.
 Please also indicate the degree or position you are applying for and any funding scheme you intend to pursue.
 
 
