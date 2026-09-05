@@ -78,12 +78,13 @@ A complete list of my publications can be found in [Google Scholar](https://scho
 **Xiyue Zhang**, Benjie Wang, Marta Kwiatkowska, Huan Zhang \\
 [[arxiv](https://arxiv.org/pdf/2408.09262)]
 
-- Protecting Deep Learning Model Copyrights with Adversarial Example-Free Reuse Detection \\
-Xiaokun Luan, **Xiyue Zhang**, Jingyi Wang, Meng Sun \\
-[[arxiv](https://arxiv.org/pdf/2407.03883)]
+
 
 
 ## Conference
+
+
+
 - FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection (ASE 2024)\\
 Jialuo Chen, Jingyi Wang, **Xiyue Zhang**, Youcheng Sun, Marta Kwiatkowska, Jiming Chen, Peng Cheng \\
 [[link](https://dl.acm.org/doi/abs/10.1145/3691620.3695472)]
@@ -110,6 +111,12 @@ Matthias König, **Xiyue Zhang**, Holger H Hoos, Marta Kwiatkowska, Jan N van Ri
  [[arxiv](https://arxiv.org/pdf/2004.11573)]
 
 ## Journal
+
+- Protecting Deep Learning Model Copyrights with Adversarial Example-Free Reuse Detection (IEEE Transactions on Neural Networks and Learning Systems) \\
+Xiaokun Luan, **Xiyue Zhang**, Jingyi Wang, Meng Sun \\
+[[link](https://ieeexplore.ieee.org/document/11073167)]
+[[arxiv](https://arxiv.org/pdf/2407.03883)]
+
 - Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (Journal of Logical and Algebraic Methods in Programming) \\
 Zeming Wei, **Xiyue Zhang**, Yihao Zhang, Meng Sun \\
 [[link](https://www.sciencedirect.com/science/article/abs/pii/S2352220823000615)]
