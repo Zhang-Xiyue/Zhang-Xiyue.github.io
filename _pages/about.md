@@ -24,16 +24,22 @@ Previously, she was a postdoctoral research associate working with [Prof. Marta 
 She received her Ph.D. in Applied Mathematics, advised by [Prof. Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), and her B.Sc. in Information and Computing Science from School of Mathematical Sciences, [Peking University](https://english.pku.edu.cn/).
 
 
-<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
 ## Recruitment
-I am looking for motivated Ph.D. students with a strong interest in formal verification or empirical analysis of data-driven models and systems. Ideal candidates will have a background in computer science or a closely related field. Scholarships are available for both home and international students, including those at the University-level, Faculty-level, CDTs, CSC, and others. Feel free to email me if you'd like to discuss further!
+I am looking for motivated **PhD students** to join my group and work on: (i) formal verification of AI-enabled systems; (ii) empirical analysis and testing of data-driven models and systems; and (iii) agentic AI for software engineering. Applicants should have a strong background in computer science or a closely related field and an interest in developing rigorous methods for understanding and assuring complex AI systems. A range of funding opportunities may be available to both UK and international applicants, including [University and UKRI funded scholarships](https://www.bristol.ac.uk/science-engineering/postgraduate-research/pgr-scholarships/), [CDT studentships](https://www.bristol.ac.uk/cdt/practice-oriented-ai/), [joint UoB-CSC scholarships](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/), and other funding schemes.
+
+### How to Apply
+
+If you are interested in joining my group, please email me with:
+- Your CV
+- Academic transcripts
+- A brief description of your research interests, relevant experience, and the topics you would be interested in exploring
+Please also indicate the degree or position you are applying for and any funding scheme you intend to pursue.
+
 
 # 🔥 News
 - *2026.07*: &nbsp;🎉🎉 Our paper, Calibrated Adversarial Sampling: Stabilizing Multi-Attack Adversarial Training via Bandit Optimization, has been accepted by [ACM MM 2026](https://2026.acmmm.org/).
 - *2026.06*: &nbsp;🎉🎉 Our paper, [Privacy-Preserving Robustness Verification for Neural Networks](https://arxiv.org/pdf/2607.05251), has been accepted by [UAI 2026](https://www.auai.org/uai2026/).
 - *2025.10*: &nbsp;🎉🎉 Our paper, [Risk-Averse Certification of Bayesian Neural Networks](https://arxiv.org/pdf/2411.19729), has been accepted by [SETTA 2025](https://www.setta2025.uk/home).
-- *2025.09*: &nbsp; ✈️✈️ Our paper "Generalizing Robustness from $l_p$ to Unforeseen Attack via Calibrated Adversarial Sampling" will be presented at the [Reliable ML](https://reliablemlworkshop.github.io/) workshop @ [NeurIPS 2025](https://neurips.cc/).
 - *2025.07*: &nbsp;🎉🎉 Our paper, [PREMAP: A Unifying PREiMage APproximation Framework for Neural Networks](https://arxiv.org/pdf/2408.09262), has been accepted by Journal of Machine Learning Research (JMLR).
 - *2025.06*: &nbsp;🎉🎉 Our paper "Protecting Deep Learning Model Copyrights with Adversarial Example-Free Reuse Detection" has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS). Check out the arxiv version [here](https://arxiv.org/abs/2407.03883). 
 - *2025.03*: &nbsp;🎉🎉 Great honour to win the Research Commercialisation Award. Huge thanks to those who support me at the competition night! Check out more info [here](https://www.bristol.ac.uk/news/2025/march/research-to-reward.html?utm_source=staff-newsletter&utm_medium=email&utm_campaign=comms-in-house-staff-bulletin-issue-285).
@@ -48,27 +54,17 @@ This is an open group, so feel free to spread the word! To observe, participate 
 - *2024.05*: I present my work on neural network certification at [Oxbridge Women in Computer Science Conference 2024](https://www.cs.ox.ac.uk/conferences/Oxbridge2024/index.html).
 - *2024.04*: &nbsp; ✈️✈️ I am going to give a talk at [TACAS 2024](https://etaps.org/2024/conferences/tacas/) speaking on Preimage Approximation (Backward Analysis) for Neural Networks. See you in Luxembourg!
 - *2023.12*: &nbsp;🎉🎉 Our paper "Provable Preimage Under-Approximation for Neural Networks" is accpeted by [TACAS 2024](https://link.springer.com/chapter/10.1007/978-3-031-57256-2_1).
-- *2023.10*: &nbsp;🎉🎉 I am selected as a [DAAD AInet fellow](https://www.daad.de/en/the-daad/postdocnet/details-and-application/) for the Postdoc-NeT-AI 11/2023.
+
 
 
 
 
 # 📝 Selected Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-
-<!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
 A complete list of my publications can be found in [Google Scholar](https://scholar.google.com/citations?hl=en&user=eBMhCGYAAAAJ).
 
 ## Preprint
+
 - From Verdict to Diagnosis: Attributable Security Review of Pull Requests \\
 Zhuo Chen, Boyang Wang, **Xiyue Zhang**, Xiaoyun Xu, Ahmad-Reza Sadeghi, Stjepan Picek, Lichao Wu \\
 [[arxiv](https://arxiv.org/pdf/2608.25730)]
@@ -84,7 +80,6 @@ Rui Wang, Zeming Wei, **Xiyue Zhang**, Meng Sun \\
 Nianyun Song, Xiaokun Luan, Yu Guo, Rongfang Bie, Meng Sun, **Xiyue Zhang** \\
 [[link](https://dl.acm.org/doi/10.5555/3844975.3845226)]
 [[arxiv](https://arxiv.org/abs/2607.05251)] 
-
 
 - FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection (ASE 2024)\\
 Jialuo Chen, Jingyi Wang, **Xiyue Zhang**, Youcheng Sun, Marta Kwiatkowska, Jiming Chen, Peng Cheng \\
@@ -145,6 +140,7 @@ Yi Li, **Xiyue Zhang**, Yuanyi Ji, Meng Sun \\
 [[link](https://www.sciencedirect.com/science/article/pii/S0167642318304076)]
 
 # 🗂️ Service
+
 ## Recent School Service
 - (2026-present). [School of Computer Science](https://www.bristol.ac.uk/science-engineering/schools/computer-science/). Postgraduate Research (PGR) Director.
 - (2025-2026). [School of Computer Science](https://www.bristol.ac.uk/science-engineering/schools/computer-science/). Deputy Postgraduate Research (PGR) Director.
@@ -164,11 +160,14 @@ Xiyue Zhang teaches across a range of undergraduate Computer Science programmes,
 
 
 ## Teaching Units
-- *TB1 2026-27* Mathematics for Computer Science A (Year-1 UG)
-- *TB2 2026-27* AI Tools and Methods  (Year-2 UG)
 
-- *TB1 2025-26* Mathematics for Computer Science A (Year-1 UG)
-- *TB1 2025-26* Machine Learning (Year-3 UG)
+### 2026-27
+- *TB1* Mathematics for Computer Science A (Year-1 UG)
+- *TB2* AI Tools and Methods  (Year-2 UG)
+
+### 2025-26
+- *TB1* Mathematics for Computer Science A (Year-1 UG)
+- *TB1* Machine Learning (Year-3 UG)
 
 # 🎖 Honors and Awards
 - *2025.03* Research Commercialisation Award
