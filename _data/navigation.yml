@@ -12,14 +12,16 @@ main:
   - title: "Teaching"
     url: "/#-teaching"
 
+  - title: "Service"
+    url: "/#-service" 
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Education"
     url: "/#-education"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+
 
   # - title: "Internships"
   #   url: "/#-internships"

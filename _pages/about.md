@@ -139,20 +139,6 @@ Yi Li, **Xiyue Zhang**, Yuanyi Ji, Meng Sun \\
 **Xiyue Zhang**, Weijiang Hong, Yi Li, Meng Sun \\
 [[link](https://www.sciencedirect.com/science/article/pii/S0167642318304076)]
 
-# 🗂️ Service
-
-## Recent School Service
-- (2026-present). [School of Computer Science](https://www.bristol.ac.uk/science-engineering/schools/computer-science/). Postgraduate Research (PGR) Director.
-- (2025-2026). [School of Computer Science](https://www.bristol.ac.uk/science-engineering/schools/computer-science/). Deputy Postgraduate Research (PGR) Director.
-
-## Selected Recent Academic Service
-- 41st Annual AAAI Conference on Artificial Intelligence ([AAAI 2027](https://aaai.org/conference/aaai/aaai-27/)). Programme Committee Member.
-- 34th ACM International Conference on Multimedia ([ACM MM 2026](https://2026.acmmm.org/)). Programme Committee Member.
-- International Joint Conferences on Artificial Intelligence 2026 ([IJCAI 2026](https://2026.ijcai.org/)). Programme Committee Member.
--  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML PKDD 2026](https://ecmlpkdd.org/2026/)). Programme Committee Member.
-- 27th International Conference on Formal Engineering Methods ([ICFEM 2026](https://icfem2026.github.io/)). Programme Committee Member.
-- 12th International Symposium on Dependable Software Engineering Theories, Tools and Applications ([SETTA 2026](https://www.setta2026.sg/)). Programme Committee Member.
-- 33rd Asia-Pacific Software Engineering Conference ([APSEC 2026](https://conf.researchr.org/home/apsec-2026)). Programme Committee Member.
 
 # 🏫 Teaching
 
@@ -169,6 +155,22 @@ Xiyue Zhang teaches across a range of undergraduate Computer Science programmes,
 - *TB1* Mathematics for Computer Science A (Year-1 UG)
 - *TB1* Machine Learning (Year-3 UG)
 
+
+# 🗂️ Service
+
+## Recent School Service
+- (2026-present). [School of Computer Science](https://www.bristol.ac.uk/science-engineering/schools/computer-science/). Postgraduate Research (PGR) Director.
+- (2025-2026). [School of Computer Science](https://www.bristol.ac.uk/science-engineering/schools/computer-science/). Deputy Postgraduate Research (PGR) Director.
+
+## Selected Recent Academic Service
+- 41st Annual AAAI Conference on Artificial Intelligence ([AAAI 2027](https://aaai.org/conference/aaai/aaai-27/)). Programme Committee Member.
+- 34th ACM International Conference on Multimedia ([ACM MM 2026](https://2026.acmmm.org/)). Programme Committee Member.
+- International Joint Conferences on Artificial Intelligence 2026 ([IJCAI 2026](https://2026.ijcai.org/)). Programme Committee Member.
+-  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML PKDD 2026](https://ecmlpkdd.org/2026/)). Programme Committee Member.
+- 27th International Conference on Formal Engineering Methods ([ICFEM 2026](https://icfem2026.github.io/)). Programme Committee Member.
+- 12th International Symposium on Dependable Software Engineering Theories, Tools and Applications ([SETTA 2026](https://www.setta2026.sg/)). Programme Committee Member.
+- 33rd Asia-Pacific Software Engineering Conference ([APSEC 2026](https://conf.researchr.org/home/apsec-2026)). Programme Committee Member.
+
 # 🎖 Honors and Awards
 - *2025.03* Research Commercialisation Award
 - *2023.10* DAAD AInet fellow for the Postdoc-NeT-AI 
@@ -181,8 +183,3 @@ Xiyue Zhang teaches across a range of undergraduate Computer Science programmes,
 - *2019.02 - 2020.03*, Research Assistant, School of Computer Science & Engineering, Nanyang Technological University.
 - *2017.08*: Visiting Student, Singapore University of Technology and Design.
 - *2013.09 - 2017.06*, BSc in Information and Computing Science, School of Mathematical Sciences, Peking University.
-
-# 💬 Invited Talks
-- *2024.11*, Inaugural talk on Neural Network Certification hosted at the Trustworthy Systems Lab (TSL) seminar series.
-- *2024.04*, Recent Advances in Neural Network Certification, Seminar talk at CISPA Helmholtz Center for Information Security.
-- *2023.07*, Preimage Approximation for Neural Networks and Beyond, Seminar talk at School of Mathematical Scienes, Peking University.
