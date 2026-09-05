@@ -49,8 +49,6 @@ This is an open group, so feel free to spread the word! To observe, participate 
 - *2024.07*: &nbsp; ✈️✈️ I give a talk at [SAIV 2024](https://www.aiverification.org/) speaking on preimage approximation-based neural network analysis.
 - *2024.05*: &nbsp;🎉🎉 Our paper "Automated Design of Linear Bounding Functions for Sigmoidal Nonlinearities in Neural Networks" is accpeted by [ECML PKDD 2024](https://ecmlpkdd.org/2024/).
 - *2024.05*: I present my work on neural network certification at [Oxbridge Women in Computer Science Conference 2024](https://www.cs.ox.ac.uk/conferences/Oxbridge2024/index.html).
-- *2024.04*: &nbsp; ✈️✈️ I am going to give a talk at [TACAS 2024](https://etaps.org/2024/conferences/tacas/) speaking on Preimage Approximation (Backward Analysis) for Neural Networks. See you in Luxembourg!
-- *2023.12*: &nbsp;🎉🎉 Our paper "Provable Preimage Under-Approximation for Neural Networks" is accpeted by [TACAS 2024](https://link.springer.com/chapter/10.1007/978-3-031-57256-2_1).
 
 
 
