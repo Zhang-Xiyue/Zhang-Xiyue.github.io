@@ -69,20 +69,21 @@ This is an open group, so feel free to spread the word! To observe, participate 
 A complete list of my publications can be found in [Google Scholar](https://scholar.google.com/citations?hl=en&user=eBMhCGYAAAAJ).
 
 ## Preprint
-- Risk-Averse Certification of Bayesian Neural Networks \\
-**Xiyue Zhang**, Zifan Wang, Yulong Gao, Licio Romao, Alessandro Abate, Marta Kwiatkowska \\
-[[arxiv](https://arxiv.org/pdf/2411.19729v1)]
-
-
-- PREMAP: A Unifying PREiMage APproximation Framework for Neural Networks \\
-**Xiyue Zhang**, Benjie Wang, Marta Kwiatkowska, Huan Zhang \\
-[[arxiv](https://arxiv.org/pdf/2408.09262)]
-
-
+- From Verdict to Diagnosis: Attributable Security Review of Pull Requests \\
+Zhuo Chen, Boyang Wang, **Xiyue Zhang**, Xiaoyun Xu, Ahmad-Reza Sadeghi, Stjepan Picek, Lichao Wu \\
+[[arxiv](https://arxiv.org/pdf/2608.25730)]
 
 
 ## Conference
 
+- Stabilizing Multi-Attack Adversarial Training via Bandit Optimization (ACM MM 2026)\\
+Rui Wang, Zeming Wei, **Xiyue Zhang**, Meng Sun \\
+[[arxiv](https://arxiv.org/pdf/2511.12265)] 
+
+- Privacy-Preserving Robustness Verification for Neural Networks (UAI 2026)\\
+Nianyun Song, Xiaokun Luan, Yu Guo, Rongfang Bie, Meng Sun, **Xiyue Zhang** \\
+[[link](https://dl.acm.org/doi/10.5555/3844975.3845226)]
+[[arxiv](https://arxiv.org/abs/2607.05251)] 
 
 
 - FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection (ASE 2024)\\
@@ -112,6 +113,15 @@ Matthias König, **Xiyue Zhang**, Holger H Hoos, Marta Kwiatkowska, Jan N van Ri
 
 ## Journal
 
+- PREMAP: A Unifying PREiMage APproximation Framework for Neural Networks (Journal of Machine Learning Research) \\
+**Xiyue Zhang**, Benjie Wang, Marta Kwiatkowska, Huan Zhang \\
+[[link](https://jmlr.org/papers/volume26/24-1297/24-1297.pdf)]
+[[arxiv](https://arxiv.org/pdf/2408.09262)]
+
+- Runtime Backdoor Detection for Federated Learning via Representational Dissimilarity Analysis (IEEE Transactions on Dependable and Secure Computing) \\
+**Xiyue Zhang**, Xiaoyong Xue, Xiaoning Du, Xiaofei Xie, Yang Liu, Meng Sun \\
+[[link](https://ieeexplore.ieee.org/abstract/document/10922119)]
+
 - Protecting Deep Learning Model Copyrights with Adversarial Example-Free Reuse Detection (IEEE Transactions on Neural Networks and Learning Systems) \\
 Xiaokun Luan, **Xiyue Zhang**, Jingyi Wang, Meng Sun \\
 [[link](https://ieeexplore.ieee.org/document/11073167)]
@@ -134,6 +144,19 @@ Yi Li, **Xiyue Zhang**, Yuanyi Ji, Meng Sun \\
 **Xiyue Zhang**, Weijiang Hong, Yi Li, Meng Sun \\
 [[link](https://www.sciencedirect.com/science/article/pii/S0167642318304076)]
 
+# 🗂️ Service
+## Recent School Service
+- (2026-present). [School of Computer Science](https://www.bristol.ac.uk/science-engineering/schools/computer-science/). Postgraduate Research (PGR) Director.
+- (2025-2026). [School of Computer Science](https://www.bristol.ac.uk/science-engineering/schools/computer-science/). Deputy Postgraduate Research (PGR) Director.
+
+## Selected Recent Academic Service
+- 41st Annual AAAI Conference on Artificial Intelligence ([AAAI 2027](https://aaai.org/conference/aaai/aaai-27/)). Programme Committee Member.
+- 34th ACM International Conference on Multimedia ([ACM MM 2026](https://2026.acmmm.org/)). Programme Committee Member.
+- International Joint Conferences on Artificial Intelligence 2026 ([IJCAI 2026](https://2026.ijcai.org/)). Programme Committee Member.
+-  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML PKDD 2026](https://ecmlpkdd.org/2026/)). Programme Committee Member.
+- 27th International Conference on Formal Engineering Methods ([ICFEM 2026](https://icfem2026.github.io/)). Programme Committee Member.
+- 12th International Symposium on Dependable Software Engineering Theories, Tools and Applications ([SETTA 2026](https://www.setta2026.sg/)). Programme Committee Member.
+- 33rd Asia-Pacific Software Engineering Conference ([APSEC 2026](https://conf.researchr.org/home/apsec-2026)). Programme Committee Member.
 
 # 🏫 Teaching
 
