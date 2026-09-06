@@ -48,7 +48,6 @@ This is an open group, so feel free to spread the word! To observe, participate 
 - *2024.08*: &nbsp;🎉🎉 Our paper "FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection" is accpeted by [ASE 2024](https://conf.researchr.org/home/ase-2024).
 - *2024.07*: &nbsp; ✈️✈️ I give a talk at [SAIV 2024](https://www.aiverification.org/) speaking on preimage approximation-based neural network analysis.
 - *2024.05*: &nbsp;🎉🎉 Our paper "Automated Design of Linear Bounding Functions for Sigmoidal Nonlinearities in Neural Networks" is accpeted by [ECML PKDD 2024](https://ecmlpkdd.org/2024/).
-- *2024.05*: I present my work on neural network certification at [Oxbridge Women in Computer Science Conference 2024](https://www.cs.ox.ac.uk/conferences/Oxbridge2024/index.html).
 
 
 
